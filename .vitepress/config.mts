@@ -2,27 +2,28 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "About Me",
+  description: "Introduce Myself",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+    // nav: [
+    //   { text: 'Home', link: '/' },
+    //   { text: 'Examples', link: '/markdown-examples' }
+    // ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Keyword',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'DEVELOPMENT', link: '/past' },
+          { text: 'PERSONALITY', link: '/present' },
+          { text: 'LANGUAGE', link: '/future' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/starrylead' }
     ]
   }
 })

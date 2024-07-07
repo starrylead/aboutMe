@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "Who is Yeeum Noh?"
+  text: "To understand her"
+  tagline: Here are some keywords for you
+  # actions:
+  #   - theme: brand
+  #     text: Markdown Examples
+  #     link: /markdown-examples
+  #   - theme: alt
+  #     text: API Examples
+  #     link: /api-examples
 
 features:
-  - title: PAST
-    details: things I've made
+  - title: DEVELOPMENT
+    details: things I made
     link: ./past.md
-  - title: PRESENT
-    details: things I'm making
-  - title: FUTURE
-    details: things I will make
+  - title: PERSONALITY
+    details: what is I like
+    link: ./present.md
+  - title: LANGUAGE
+    details: things I was doing oversea
+    link: ./future.md
 ---
