@@ -13,6 +13,3 @@
 + 受講した先生たちがゲール体験のキャンプ場に連れてくれて、その日見た夜空が忘れられない
 <br><br><br>
 
-# PROGRAMMING（開発言語）
-## Python Coding Specialist 2級
-![python](./cert/PYTHON.PNG "Python Coding Specialist")
