@@ -15,12 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature ABCD
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: https://blog.naver.com/starrycluer
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: PAST
+    details: things I've made
+    link: ./past.md
+  - title: PRESENT
+    details: things I'm making
+  - title: FUTURE
+    details: things I will make
 ---
-
