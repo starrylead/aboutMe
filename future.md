@@ -1,6 +1,6 @@
 # ENGLISH（英語）
 ## OPIc Intermediate Mid
-![opic](./cert/OPIC_ENG.PNG "OPIC Intermediate Mid")
+![opic](./cert/OPIC_ENG.png "OPIC Intermediate Mid")
 
 ## Photoshop Seminar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dfxz4gGmM2g?si=ICNGki4IdmQpcefQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
