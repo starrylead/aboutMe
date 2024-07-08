@@ -8,5 +8,6 @@ module.exports = {
     extend: {},
   },
   plugins: [require('daisyui'),],
+  assetsInclude: ['**/*.png']
 }
 
